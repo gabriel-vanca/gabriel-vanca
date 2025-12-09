@@ -37,7 +37,10 @@ Here are some ideas to get you started:
 ![Cloud-Digital_Ocean](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 ![CDN-Cloudflare](https://img.shields.io/badge/CDN-Cloudflare-informational?style=flat&logo=cloudflare&logoColor=white&color=2bbc8a)
 ![Code-C/C++](https://img.shields.io/badge/Code-C/C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
-![Code-C_Sharp](https://img.shields.io/badge/Code-C_Sharp_-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
+
+C%23-239120?style=flat&logo=unity&logoColor=white
+
+![Code-C_Sharp](https://img.shields.io/badge/C%23-239120-informational?style=flat&logo=C%23-239120&logoColor=white&color=2bbc8a)
 ![Code-JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![Text-LaTeX](https://img.shields.io/badge/Text-LaTeX-informational?style=flat&logo=latex&logoColor=white&color=2bbc8a)
 ![Tools-Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
