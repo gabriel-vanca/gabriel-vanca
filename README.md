@@ -31,13 +31,13 @@ Here are some ideas to get you started:
 <!-- Custom Logos are possible. -->
 <!-- Badges: https://shields.io/ -->
 
-![OS-Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![OS-MacOS](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+![OS-Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows11&logoColor=white&color=2bbc8a)
+![OS-MacOS](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a)
 ![Hypervisor-VMware_ESXi](https://img.shields.io/badge/Hypervisor-VMware_ESXi-informational?style=flat&logo=vmware&logoColor=white&color=2bbc8a)
 ![Cloud-Digital_Ocean](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 ![CDN-Cloudflare](https://img.shields.io/badge/CDN-Cloudflare-informational?style=flat&logo=cloudflare&logoColor=white&color=2bbc8a)
 ![Code-C/C++](https://img.shields.io/badge/Code-C/C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
-![Code-C_Sharp](https://img.shields.io/badge/C%23-239120-informational?style=flat&logo=unity&logoColor=white&color=2bbc8a)
+![Code-C_Sharp](https://img.shields.io/badge/C%23-239120-informational?style=flat&logo=cshrp&logoColor=white&color=2bbc8a)
 ![Code-JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![Text-LaTeX](https://img.shields.io/badge/Text-LaTeX-informational?style=flat&logo=latex&logoColor=white&color=2bbc8a)
 ![Tools-Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
